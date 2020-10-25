@@ -1,6 +1,0 @@
-# oracle 配置
-db:
-  driver: oracle.jdbc.OracleDriver
-  url: jdbc:oracle:thin:@10.38.16.158:1521:xe
-  username: XHWL_OMS
-  password: ynwl2020$#

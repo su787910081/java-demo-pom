@@ -1,7 +1,0 @@
-shiro 中的用户认证流程
-    1. 将token 中的用户名和密码给到 Subject;
-    2. Subject 给到Security Manager;
-    3. Security Manager 去找到并调用自己的认证器;
-    4. 认证器根据配置的Realm 去调用相关策略;
-    5. 根据策略去调用 Realm;
-    6. 最后验证是否成功;

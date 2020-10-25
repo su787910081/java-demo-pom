@@ -1,6 +1,0 @@
-# mysql 配置
-db:
-  driver: com.mysql.cj.jdbc.Driver
-  url: jdbc:mysql://docker:3306/suyh_db?characterEncoding=utf-8&useSSL=false
-  username: root
-  password: root

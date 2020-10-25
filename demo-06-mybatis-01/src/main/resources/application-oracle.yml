@@ -1,7 +1,0 @@
-
-# oracle 配置
-#db:
-#  driver: oracle.jdbc.driver.OracleDriver
-#  url: jdbc:oracle:thin:@docker:1521:XE
-#  username: AfterSales
-#  password: oracle_pwd
